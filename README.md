@@ -1,4 +1,4 @@
-# Univariate Time Series Analysis of Two Datasets
+# Machine Learning Univariate Time Series Analysis of Two Datasets using Random Forest
 ## Data Used:
 1. Statistics in Modern Technology Dataset
 2. Statistical Methods in Artificial Intelligence (AI)
